@@ -1,7 +1,4 @@
-## Machine learning project for text generation of ❄ &amp; 🔥
-
-This project is created following this tutorial: [How to Generate Your Own Wikipedia Articles (LIVE)](https://www.youtube.com/watch?v=ZGU5kIG7b2I)
-
+## Machine learning project for text generation with RNN
 ------
 To develop and/or run:
 
